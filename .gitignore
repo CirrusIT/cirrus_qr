@@ -5,4 +5,8 @@
 .pub/
 pubspec.lock
 
+.idea/
+.project/
+.classpath/
+.settings/
 build/

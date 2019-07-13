@@ -1,3 +1,10 @@
+## 1.0.0
+* Update to AndroidX
+
+## 0.0.2
+
+* Version stable
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* First version of plugin

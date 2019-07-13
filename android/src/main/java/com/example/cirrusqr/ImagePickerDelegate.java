@@ -9,8 +9,8 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.provider.MediaStore;
-import android.support.annotation.VisibleForTesting;
-import android.support.v4.app.ActivityCompat;
+import androidx.annotation.VisibleForTesting;
+import androidx.core.app.ActivityCompat;
 import android.util.Log;
 import android.util.SparseArray;
 

@@ -1,6 +1,6 @@
 name: cirrus_qr
 description: A new flutter plugin for read QR image in android and ios.
-version: 0.0.2
+version: 1.0.0
 author: Cirrus IT <info@cirrus-it.net>
 homepage: https://github.com/CirrusIT/cirrus_qr.git
 
